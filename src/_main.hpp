@@ -87,7 +87,7 @@ namespace geode::cocos {
             std::string ret;
 
             int status = 0;
-            auto demangle = abi::__cxa_demangle(typeid(*node).name(), 0, 0, &status);
+            auto demangle = abi::__cxa_demangle(typeid(*object).name(), 0, 0, &status);
             if (status == 0) {
                 ret = demangle;
             }
