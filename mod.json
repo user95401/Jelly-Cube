@@ -1,5 +1,5 @@
 {
-	"geode": "4.0.0-alpha.1",
+	"geode": "4.0.0-beta.1",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "user95401.jelly_cube",
 	"name": "Jelly Cube",
-	"version": "v1.1.0",
+	"version": "v1.1.1",
 	"developer": "user95401",
 	"description": "platformer jump animation plays in normal mode at some events",
 	"tags": [ "gameplay", "offline", "enhancement", "customization" ],
