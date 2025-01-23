@@ -1,5 +1,4 @@
 #include <_main.hpp>
-#include <_updater.hpp> 
 
 #include <Geode/modify/GJBaseGameLayer.hpp>
 class $modify(GJBaseGameLayerExt, GJBaseGameLayer) {
